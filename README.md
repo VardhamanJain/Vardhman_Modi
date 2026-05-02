@@ -2,40 +2,73 @@
 
 Senior Embedded Firmware Engineer with 11+ years of experience in Embedded Linux, RTOS, multimedia systems, IoT, wireless communication, and avionics products.
 
-## Technical Skills
+Hands-on expertise in C/C++, BSP development, device drivers, board bring-up, multimedia/audio pipelines, wireless protocols, and embedded product integration on NXP i.MX, STM32, ESP32, and ARM Cortex platforms.
+
+Experienced in Embedded Linux, FreeRTOS, Yocto, GStreamer, FFmpeg, hardware/software integration, and low-level debugging. Worked on multimedia systems, Android AAOS, Matter protocol, RF communication systems, CI/CD automation, and embedded GUI frameworks.
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+* C
+* C++
+* Python
+* Shell Script
+
+## Embedded Platforms
+
+* NXP i.MX6 / i.MX8
+* STM32F429 / STM32H743
+* ESP32 / ESP8266
+* ARM Cortex Platforms
+
+## Operating Systems & RTOS
 
 * Embedded Linux
-* RTOS / FreeRTOS
-* BSP Development
-* Device Drivers
-* Yocto
+* FreeRTOS
+* MQX
+* Bare-metal Programming
+
+## Multimedia & Frameworks
+
 * GStreamer
-* C / C++
-* STM32
-* NXP i.MX
-* ESP32
-* Multimedia Systems
-* Hardware Bring-up
+* FFmpeg
+* Audio/Video Pipelines
+* Android AAOS
 
-## Domains
+## Protocols & Connectivity
 
-* Multimedia & Audio Systems
-* IoT & Wireless Communication
-* Industrial Automation
-* Avionics Firmware
-* Embedded Product Development
+* UART
+* SPI
+* I2C
+* I2S
+* CAN
+* BLE
+* Ethernet
+* USB
+* HDMI
+* Wi-Fi
+* Thread
+* LoRa
 
-## Currently Working On
+## Tools & Technologies
 
-* Embedded Linux projects
-* RTOS-based firmware
-* Embedded automation tools
-* Multimedia/audio pipeline development
+* Yocto
+* Git
+* GDB
+* Lauterbach
+* J-Link
+* CubeMX
+* Bamboo
+* JIRA
+* Bitbucket
+* Confluence
 
-## Connect With Me
+---
 
-* LinkedIn: https://www.linkedin.com/in/vardhman-modi/
-# Featured Projects
+# Featured Embedded Projects
 
 ## Dolby Atmos Audio Framework Integration
 
@@ -47,7 +80,7 @@ Senior Embedded Firmware Engineer with 11+ years of experience in Embedded Linux
 * Added Dolby Auto-Detect (IEC61937) support over HDMI/SPDIF.
 * Implemented runtime decoder switching for dynamic audio stream changes.
 * Reduced audio latency and optimized multi-core audio processing.
-* Performed debugging and testing using Lauterbach JTAG and custom tools.
+* Performed debugging and testing using Lauterbach JTAG and kernel-level tools.
 
 ---
 
@@ -92,3 +125,65 @@ Senior Embedded Firmware Engineer with 11+ years of experience in Embedded Linux
 * Developed 4-channel stepper motor control system with trapezoidal and triangular speed profiles.
 * Integrated AMT212BV rotary encoder for precision feedback.
 * Developed industrial GUI applications using TouchGFX and C++.
+
+---
+
+## ELRS Drone RC and LR1121 Driver Porting
+
+**Platform:** NXP i.MX8MP M7 Core
+**Technologies:** Embedded C, LoRa, Wireless Communication
+
+* Ported ELRS Drone RC stack on i.MX8MP M7 core.
+* Integrated Semtech LR1121 wireless driver for RF communication systems.
+* Worked on low-level wireless communication and embedded integration.
+
+---
+
+## Wireless Video Streaming for Oculus Quest
+
+**Platform:** Xilinx Platform
+**Technologies:** C++, OpenGL, GStreamer, H.264/H.265
+
+* Implemented wireless video streaming for Oculus Quest VR headset.
+* Optimized H.264/H.265 encoder-decoder latency for low-latency streaming.
+* Worked with GStreamer plugins and custom multimedia applications.
+
+---
+
+## GStreamer Audio Streaming and FFmpeg Integration
+
+**Platform:** Embedded Linux
+**Technologies:** GStreamer, FFmpeg, UDP Streaming
+
+* Developed GStreamer pipelines for audio streaming over UDP.
+* Integrated FFmpeg for multimedia format conversion.
+* Enhanced embedded multimedia processing and streaming capabilities.
+
+---
+
+# Areas of Interest
+
+* Embedded Linux & BSP Development
+* RTOS & Firmware Development
+* Multimedia & Audio/Video Systems
+* IoT & Wireless Communication
+* Device Drivers & Hardware Bring-up
+* Embedded Product Development
+* Embedded Automation & CI/CD
+* Avionics & RF Communication Systems
+
+---
+
+# Currently Exploring
+
+* Embedded Linux Internals
+* Multimedia Optimization
+* Yocto Automation
+* Wireless Communication Systems
+* Embedded AI/ML Integration
+
+---
+
+# Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/vardhman-modi](http://www.linkedin.com/in/vardhman-modi)
